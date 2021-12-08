@@ -1,9 +1,6 @@
 - 👋 Hi!
-- 
-- 👀 I code.
-- 
+- I code.
 - 🌱 I’m currently doing Java & Coding with Python.
-- 
 - 📫 How to reach me Discord:Floppy#0161
 
 <!---
